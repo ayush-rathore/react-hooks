@@ -1,16 +1,3 @@
-# React Hooks
-
-A collection of custom react hooks.
-
-## Documentation
-
-[useRecord](https://github.com/ayush-rathore/react-hooks/blob/main/src/useRecord.js) - Custom hook to record audio via Expo Audio
-
-[useFirebaseUpload](https://github.com/ayush-rathore/react-hooks/blob/main/src/useFirebaseUpload.js) - Custom hook to upload files to Firebase Storage
-
-## Usage/Examples
-
-```javascript
 import useRecord from "./src/useRecord";
 import useFirebaseUpload from "./src/useFirebaseUpload";
 
@@ -44,8 +31,3 @@ function App() {
 		</TouchableOpacity>
 	);
 }
-```
-
-## Support
-
-For support, email heyfreaker@gmail.com
