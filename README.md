@@ -4,9 +4,9 @@ A collection of custom react hooks.
 
 ## Documentation
 
-[useRecord]() - Custom hook to record audio via Expo Audio
+[useRecord](https://github.com/ayush-rathore/react-hooks/blob/main/src/useRecord.js) - Custom hook to record audio via Expo Audio
 
-[useFirebaseUpload]() - Custom hook to upload files to Firebase Storage
+[useFirebaseUpload](https://github.com/ayush-rathore/react-hooks/blob/main/src/useFirebaseUpload.js) - Custom hook to upload files to Firebase Storage
 
 ## Usage/Examples
 
