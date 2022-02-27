@@ -18,7 +18,7 @@ import useFirebaseUpload from './useFirebaseUpload';
 import { TouchableOpacity } from 'reaact-native';
 import { Feather } from '@expo/vector-icons';
 
-// Call the function upload with arguement URL
+// Call the function upload with arg URL
 async function upload(URL) {
     await useFirebaseUpload(URL).then((res) => {
         console.log("Download URL: ", res);
